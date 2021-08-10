@@ -32,3 +32,4 @@
 ## Course Objectives
 
 The objectives of this course are aligned to match the **`Certified Kubernetes Security Specialist (CKS)`**
+--Monirul
